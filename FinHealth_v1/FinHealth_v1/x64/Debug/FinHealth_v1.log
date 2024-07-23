@@ -1,0 +1,4 @@
+﻿  FinHealth_v1.cpp
+C:\Users\marys\Desktop\FinHealth_v1\FinHealth_v1\FinHealth_v1\FinHealth_v1.cpp(18,13): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\marys\Desktop\FinHealth_v1\FinHealth_v1\FinHealth_v1\FinHealth_v1.cpp(46,33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  FinHealth_v1.vcxproj -> C:\Users\marys\Desktop\FinHealth_v1\FinHealth_v1\x64\Debug\FinHealth_v1.exe
